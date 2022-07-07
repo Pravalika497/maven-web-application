@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies - GitHub Webhook Demo  .....</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions....... i am Naga pravalika Ayyalasomayajula</h1>
+<h1 align="center"> Welcome to Mithun Software Solutions....... i am Naga pravalika Ayyalasomayajula,student in mithun technologies, mithun technologies is very great institute</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
