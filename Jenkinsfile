@@ -1,10 +1,7 @@
-pipeline{
 
-agent any
-
-tools{
-maven 'maven3.8.3'
-
+node
+{
+    def mavenHome = tool name : "maven3.6.3"
 }
 
 triggers{
